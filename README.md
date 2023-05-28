@@ -1,32 +1,57 @@
-# TITLE
+# Chess Game
 
-SummaryText
+Welcome to my repository for the implementation of the project, **Chess Game**. For the initial iteration of this project, I will utilize C++. 
 
-### Description
+## Description
 
-Provide answers to the following: 
-  - What is this project or repository?
-  - How does it work?
-  - Who will (or might) use this project or repositiory?
-  - What is the primary goal of this project? 
-  - Why should users consider this project? (i.e.: benefits)
+### Project Objectives
 
-### Relevant Resources
-- [Text for Hyperlink](URL)
-- [Text for Hyperlink](URL)
+- Understand the rules of chess. 
+  - Piece movement
+  - Special moves (castling, en passant, pawn promotion)
+  - Conditions for end of game
+- Implement basic chess logic in C++
+  - Creation of classes for pieces, board
+  - Movement logic for each piece
+- Create a user interface
+- Add advanced features 
+
+### Project Milestones
+
+- Planning
+  - Project (goals, resources, requirements)
+  - Product (objectives, tasks, dependencies, data flow)
+- Design pieces
+  - Class `Piece`
+- Implement the board
+  - 2 dimensional array
+- Implement the game loop
+  - Accept input from users
+  - Calls functions for movement of pieces
+  - Redraws board
+- Testing
+- Implement advanced features
+- Final testing and debugging
+- Completion
+
+## Relevant Resources
+
+#### Chess
+- [Chess Cheat Sheet](https://www.chess.com/terms/cheat-sheet-chess)
+#### C++
+- [CPP Reference](https://cplusplus.com/reference/)
+- [DevDocs C++ Manual](https://devdocs.io/cpp/) 
+- [GNU C++ Library Reference](https://gcc.gnu.org/onlinedocs/gcc-13.1.0/libstdc++/api/)
+- [C++ Manual](https://www.softwarepreservation.org/projects/c_plus_plus/cfront/release_e/doc/ReferenceManual.pdf) - 1986 manual (_more of an interesting read, less of a reference_)
 
 ## Deployment
-Provide answers to the following:
-  - How do I get this project to work on my machine? 
-  - How an I develop for this project?
+_TBD_
 
 ## Questions?
 If you have questions, or anything you'd like to share, be sure to create a PR/Issue!
 
 ## Licensing
-  - Provide easy access to licensing details. 
-  - Answer the question "**What is the license for this project**?"
-  - Include credit/licenses for embedded resources. 
+This project is licensed under an [MIT License](https://github.com/bit-bangin/Chess_Game/blob/eb38cee0f04be1747017b53204badb014aa1baed/LICENSE).
 
 ## Let's Connect!
 <html>
