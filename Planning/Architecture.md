@@ -27,16 +27,16 @@
   - `setPiece(Piece piece)`  |  _Sets `Piece` currently occupying the `Square`_
   - `isEmpty()`  |   _Returns whether or not a `Square` is empty_
 
-### `Board` Class
+### `ChessBoard` Class
 - **About**
   - Represents the chess board.
 - **Properties**
   - 2-dimensional array of `Squares`
 - **Methods**
-      - `getSquare(int x, int y)`  |   _returns the `Square` at the given coordinates._
-      - `movePiece(Piece piece, SquareDest)`  |   _move `Pieces` around on the `board`_
-      - `check status()`  |  _check current state of the `board`_
-      - `displayBoard()`  |  _prints state of `board` to console_
+    - `getSquare(int x, int y)`  |   _returns the `Square` at the given coordinates._
+    - `movePiece(Piece piece, SquareDest)`  |   _move `Pieces` around on the `board`_
+    - `check status()`  |  _check current state of the `board`_
+    - `displayBoard()`  |  _prints state of `board` to console_
       
 ### `Player` Class
 - **About**
