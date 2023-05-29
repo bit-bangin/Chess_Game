@@ -2,7 +2,7 @@
 
 ## 1. Class Definitions
 
-### `Piece` Object Class
+### `Piece` Class
 - **About**
   - Represents a chess piece.
 - **Methods**
@@ -16,7 +16,7 @@
   - Method
     - `getPossibleMoves()`  |  _Returns a list of valid moves for the piece_
 
-### `Square` Object Class
+### `Square` Class
 - **About**
   - Represents a square on the chess board.
 - **Properties**
@@ -27,7 +27,7 @@
   - `setPiece(Piece piece)`  |  _Sets `Piece` currently occupying the `Square`_
   - `isEmpty()`  |   _Returns whether or not a `Square` is empty_
 
-### `Board` Object Class
+### `Board` Class
 - **About**
   - Represents the chess board.
 - **Properties**
@@ -38,9 +38,9 @@
       - `check status()`  |  _check current state of the `board`_
       - `displayBoard()`  |  _prints state of `board` to console_
       
-### `Player` Object Class
+### `Player` Class
 - **About**
-  - Represents a player in the game
+  - Represents a player in the game.
 - **Properties**
   - Player color
   - Pieces in play
@@ -51,9 +51,9 @@
   - `isInCheck()`  |  _checks whether the player is currently in check_
   - `makeMove()`  |  _prompts the player to input a move (human player)_
 
-### `Game` Object Class
+### `Game` Class
 - **About**
-  - Controls flow of the game
+  - Controls flow of the game.
 - **Properties** 
   - Game loop
   - Contains a `Board` and 2 `Players`
