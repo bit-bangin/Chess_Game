@@ -4,11 +4,11 @@
     -  Declaration of class `Piece` and associated methods.
   - `Piece.cpp` |  _source_
     -  Definitions of `Piece` object methods.
-### 2. `Board`
-  - `Board.hpp` |  _header_
-    -  Declaration of class `Board` and associated methods.
-  - `Board.cpp` |  _source_
-    -  Definitions of `Board` object methods.
+### 2. `ChessBoard`
+  - `ChessBoard.hpp` |  _header_
+    -  Declaration of class `ChessBoard` and associated methods.
+  - `ChessBoard.cpp` |  _source_
+    -  Definitions of `ChessBoard` object methods.
 ### 3. `Player`
   - `Player.hpp` |  _header_
     -  Declaration of class `Player` and associated methods.
