@@ -38,6 +38,7 @@ Welcome to my repository for the implementation of the project, **Chess Game**. 
 
 #### Chess
 - [Chess Cheat Sheet](https://www.chess.com/terms/cheat-sheet-chess)
+- [Chess Programming Wiki](https://www.chessprogramming.org/Chess_Game)
 #### C++
 - [CPP Reference](https://cplusplus.com/reference/)
 - [DevDocs C++ Manual](https://devdocs.io/cpp/) 
